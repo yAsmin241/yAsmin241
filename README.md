@@ -6,7 +6,6 @@
 - Date of birth : 24/1/2004
 - Hometown: Shah Alam, Selangor
 - Contact : ybzahiruddin@gmail.com
-- 
 
 ### Background education :
 
