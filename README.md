@@ -5,7 +5,17 @@
 - Age : 19
 - Date of birth : 24/1/2004
 - Based in : Shah Alam, Selangor
-- Contact : ybzahiruddin@gmail.com
+
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/yasmin-batrisyia-zahiruddin/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ybzahiruddin@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 
 
@@ -22,17 +32,6 @@
                     1st year student in Computer Science (Data Engineering) <-- CURRENTLY!
 
 ⤷ As a computer science student, I am dedicated to expanding my knowledge and skills in the field. I have a passion for technology and am constantly seeking new opportunities to learn and grow. My expected graduation year is in 2027 and I am determined to make the most of my time as a student.
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/yasmin-batrisyia-zahiruddin-33a054299 target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:ybzahiruddin@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
-  </a>
-</p> 
-
 
 
  ## Skills
