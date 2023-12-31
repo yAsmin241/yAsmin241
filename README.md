@@ -23,7 +23,7 @@
 
 ⤷ As a computer science student, I am dedicated to expanding my knowledge and skills in the field. I have a passion for technology and am constantly seeking new opportunities to learn and grow. My expected graduation year is in 2027 and I am determined to make the most of my time as a student.
 
- <a aligh="left" href="https://javierarango.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/javier_arango_" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/javier-arango" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
+ <a aligh="left" href="www.linkedin.com/in/yasmin-batrisyia-zahiruddin-33a054299" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
 
 
