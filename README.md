@@ -37,8 +37,8 @@
 
  
 
-## GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yAsmin241&show_icons=true&locale=en" alt="yAsmin241" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yAsmin241&" alt="yAsmin241" /></p>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuylam&show_icons=true&count_private=true&theme=default" alt="GitHub Stats">
+</p>
 
