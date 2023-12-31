@@ -1,4 +1,4 @@
-# Yasmin Batrisyia binti Zahiruddin
+# Hi, I'm Yasmin Batrisyia binti Zahiruddin
 ### I am actively leraning in computer science field to expand my knowledge of various technologies, and to gain hands-on experience in the field. 
 
 - Pronouns: Yasmin
