@@ -1,5 +1,5 @@
 # Hi, I'm Yasmin Batrisyia binti Zahiruddin
-### I am actively learning in computer science field to expand my knowledge of various technologies, and to gain hands-on experience in the field. 
+### I am actively learning in the field of computer science in order to broaden my understanding of numerous technologies and obtain hands-on experience. 
 
 - Pronouns: Yasmin
 - Age : 19
@@ -31,7 +31,7 @@
 - Degree          : Universiti Teknologi Malaysia,
                     1st year student in Bacnhelor of degree in Computer Science (Data Engineering) <-- CURRENTLY!
 
-⤷ As a computer science student, I am dedicated to expanding my knowledge and skills in this field. I have a passion for technology and I am constantly seeking new opportunities to learn and grow. My expected graduation year is in 2027 and I am determined to make the most of my time as a student in utm.
+⤷ As a computer science student, I am committed to expanding my knowledge and talents in this profession. I am fascinated by technology and am constantly looking for new ways to learn and progress. My planned graduation year is 2027, and I am determined to make the most of my time as a student at utm.
 
 
  ## Skills
