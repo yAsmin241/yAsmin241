@@ -21,14 +21,14 @@
 
 ## Background education :
 
-- Primary school  : SK Taman Bukit Subang
+- Primary school  : SK Taman Bukit Subang,
                     UPSR: 1A 5B
-- Secondary school: SMK Shah Alam
+- Secondary school: SMK Shah Alam,
                     PT3: 6A 2B 1C
                     SPM: 6A 2B 1C
-- Foundation      : Kolej Matrikulasi Negeri Sembilan
+- Foundation      : Kolej Matrikulasi Negeri Sembilan,
                     CGPA: 3.96 
-- Degree          : Universiti Teknologi Malaysia
+- Degree          : Universiti Teknologi Malaysia,
                     1st year student in Computer Science (Data Engineering) <-- CURRENTLY!
 
 ⤷ As a computer science student, I am dedicated to expanding my knowledge and skills in the field. I have a passion for technology and am constantly seeking new opportunities to learn and grow. My expected graduation year is in 2027 and I am determined to make the most of my time as a student.
