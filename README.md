@@ -29,7 +29,7 @@
 - Foundation      : Kolej Matrikulasi Negeri Sembilan,
                     CGPA: 3.96 
 - Degree          : Universiti Teknologi Malaysia,
-                    1st year student in Computer Science (Data Engineering) <-- CURRENTLY!
+                    1st year student in Bacnhelor of degree in Computer Science (Data Engineering) <-- CURRENTLY!
 
 ⤷ As a computer science student, I am dedicated to expanding my knowledge and skills in the field. I have a passion for technology and am constantly seeking new opportunities to learn and grow. My expected graduation year is in 2027 and I am determined to make the most of my time as a student.
 
