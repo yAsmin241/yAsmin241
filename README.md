@@ -36,10 +36,13 @@
 
 
 ## Positions : 
+<p align="left"> 
 Primary school </p>
 - Prefect (2012-2013)
 - Assistant class monitor (2014-2016)
-- Vice chairman of Blue House (2016)
+- Vice chairman of Blue House (2016) </p>
+
+<p align="left"> 
 Secondary school </p>
 - Assistant class monitor (2017-2021)
 - President of Kelab Tunas Niaga (2021)
