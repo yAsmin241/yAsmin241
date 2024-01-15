@@ -24,7 +24,7 @@
 🎓  Primary school (2011-2016)  : SK Taman Bukit Subang, 
                     UPSR: 1A 5B </p>
 🎓 Secondary school (2017-2021) : SMK Shah Alam,
-                    PT3: 6A 2B 1C
+                    PT3: 6A 2B 1C, 
                     SPM: 6A 2B 1C </p>
 🎓 Foundation       (2022-2023) : Kolej Matrikulasi Negeri Sembilan,
                     CGPA: 3.96 </p>
