@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
   </a>
 </p>
-<br/>
 
 
 ## Background education :
