@@ -36,6 +36,7 @@
 ⤷ As a computer science student, I am committed to expanding my knowledge and talents in this profession. I am fascinated by technology and am constantly looking for new ways to learn and progress. My planned graduation year is 2027, and I am determined to make the most of my time as a student at utm.
 <br/>
 
+
 ## Positions : 
 <p align="left"> 
 Primary school </p>
@@ -53,6 +54,7 @@ Secondary school </p>
 Foundation </p>
 - bureau of outdoor activities in Program Siswa Sihat (PROSIS) (2022-2023)</p>
 <br/>
+
   
  ## Skills : 
    <p align="left"> 
