@@ -29,7 +29,7 @@
                     SPM: 6A 2B 1C </p>
 🎓 Foundation       (2022-2023) : Kolej Matrikulasi Negeri Sembilan,
                     CGPA: 3.96 </p>
-🎓 Degree        (2023-present) : Universiti Teknologi Malaysia,
+🎓 Degree        (2023-present) : UTM,
                     1st year student in Bacnhelor of degree in Computer Science (Data Engineering) </p>
 
 ⤷ As a computer science student, I am committed to expanding my knowledge and talents in this profession. I am fascinated by technology and am constantly looking for new ways to learn and progress. My planned graduation year is 2027, and I am determined to make the most of my time as a student at utm.
