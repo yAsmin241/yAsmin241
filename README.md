@@ -21,15 +21,15 @@
 
 ## Background education :
 
-- Primary school  : SK Taman Bukit Subang,
-                    UPSR: 1A 5B
-- Secondary school: SMK Shah Alam,
+🎓  Primary school (2011-2016)  : SK Taman Bukit Subang, 
+                    UPSR: 1A 5B </p>
+🎓 Secondary school (2017-2021) : SMK Shah Alam,
                     PT3: 6A 2B 1C
-                    SPM: 6A 2B 1C
-- Foundation      : Kolej Matrikulasi Negeri Sembilan,
-                    CGPA: 3.96 
-- Degree          : Universiti Teknologi Malaysia,
-                    1st year student in Bacnhelor of degree in Computer Science (Data Engineering) <-- CURRENTLY!
+                    SPM: 6A 2B 1C </p>
+🎓 Foundation       (2022-2023) : Kolej Matrikulasi Negeri Sembilan,
+                    CGPA: 3.96 </p>
+🎓 Degree        (2023-present) : Universiti Teknologi Malaysia,
+                    1st year student in Bacnhelor of degree in Computer Science (Data Engineering) </p>
 
 ⤷ As a computer science student, I am committed to expanding my knowledge and talents in this profession. I am fascinated by technology and am constantly looking for new ways to learn and progress. My planned graduation year is 2027, and I am determined to make the most of my time as a student at utm.
 
