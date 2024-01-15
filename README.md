@@ -35,7 +35,18 @@
 ⤷ As a computer science student, I am committed to expanding my knowledge and talents in this profession. I am fascinated by technology and am constantly looking for new ways to learn and progress. My planned graduation year is 2027, and I am determined to make the most of my time as a student at utm.
 
 
- ## Skills
+## Positions : 
+Primary school </p>
+- Prefect (2012-2013)
+- Assistant class monitor (2014-2016)
+- Vice chairman of Blue House (2016) </p>
+Secondary school </p>
+- Assistant class monitor (2017-2021)
+- President of Kelab Tunas Niaga (2021)
+- Vice chairman of Blue House (2021)
+
+  
+ ## Skills : 
    <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
