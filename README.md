@@ -1,13 +1,14 @@
 # Hi, I'm Yasmin Batrisyia binti Zahiruddin
-### I am actively learning in the field of computer science in order to broaden my understanding of technologies and obtain a lot of experience. 
+## I am actively learning in the field of computer science in order to broaden my understanding of technologies and obtain a lot of experience. 
 
 - Pronouns: Yasmin
 - Age : 19
 - Date of birth : 24/1/2004
 - Based in : Shah Alam, Selangor
+</P>
 
 
-### 🌐 Connect with Me: 
+## 🌐 Connect with Me: 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yasmin-batrisyia-zahiruddin/" target="_blank">
