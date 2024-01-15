@@ -38,15 +38,20 @@
 ## Positions : 
 <p align="left"> 
 Primary school </p>
-- Prefect (2012-2013)
-- Assistant class monitor (2014-2016)
+- Prefect (2012-2013) </p>
+- Assistant class monitor (2014-2016) </p>
 - Vice chairman of Blue House (2016) </p>
 
 <p align="left"> 
 Secondary school </p>
-- Assistant class monitor (2017-2021)
-- President of Kelab Tunas Niaga (2021)
-- Vice chairman of Blue House (2021)
+- Assistant class monitor (2017-2021) </p>
+- President of Kelab Tunas Niaga (2021) </p>
+- Vice chairman of Blue House (2021) </p>
+
+<p align="left"> 
+Foundation </p>
+- bureau of outdoor activities in Program Siswa Sihat (PROSIS) (2022-2023)</p>
+
 
   
  ## Skills : 
