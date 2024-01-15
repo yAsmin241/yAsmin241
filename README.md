@@ -34,7 +34,7 @@
                     1st year student in Bacnhelor of degree in Computer Science (Data Engineering) </p>
 
 ⤷ As a computer science student, I am committed to expanding my knowledge and talents in this profession. I am fascinated by technology and am constantly looking for new ways to learn and progress. My planned graduation year is 2027, and I am determined to make the most of my time as a student at utm.
-
+<br/>
 
 ## Positions : 
 <p align="left"> 
@@ -52,8 +52,7 @@ Secondary school </p>
 <p align="left"> 
 Foundation </p>
 - bureau of outdoor activities in Program Siswa Sihat (PROSIS) (2022-2023)</p>
-
-
+<br/>
   
  ## Skills : 
    <p align="left"> 
@@ -62,7 +61,7 @@ Foundation </p>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-
+<br/>
  
 
 ### 📊 GitHub Stats
