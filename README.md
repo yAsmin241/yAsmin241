@@ -15,7 +15,8 @@
   </a>
   <a href="mailto:ybzahiruddin@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
-  </a>
+  </a> </p>
+  Email : ybzahiruddin@gmail.com
 </p>
 
 
