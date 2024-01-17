@@ -31,6 +31,7 @@
                     SPM: 6A 2B 1C </p>
 🎓 Foundation       (2022-2023) : Kolej Matrikulasi Negeri Sembilan,
                     CGPA: 3.96 </p>
+                    MUET : 4.5 </p>
 🎓 Degree        (2023-present) : UTM,
                     1st year student in Banchelor of degree in Computer Science (Data Engineering) </p>
 
@@ -38,7 +39,7 @@
 <br/>
 
 
-## Positions : 
+##  😎 Positions : 
 <p align="left"> 
 Primary school </p>
 - Prefect (2012-2013) </p>
@@ -57,7 +58,7 @@ Foundation </p>
 <br/>
 
   
- ## Skills : 
+ ## 💪 Skills : 
    <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -67,7 +68,7 @@ Foundation </p>
   <a href="https://www.java.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <br/>
 
-## Awards :
+## 📑 Awards :
 <p align="left"> 
 Primary school </p>
 - Tokoh Kokurikulum Perempuan (2016)</p>
@@ -84,11 +85,11 @@ Foundation </p>
 - Anugerah Kecemerlangan Akademik 4.0 (2023)</p>
 <br/>
 
-## Curriculum : 
+## 🥇Curriculum : 
 <p align="left"> 
-- Swimming (National Level) </p>
-- Taekwondo (Black Belt Holder) </p>
-- Piano (Grade 5 ABRSM) </p>
+- Swimming (National Level) 🏊‍♀️ </p>
+- Taekwondo (Black Belt Holder) 🥋 </p>
+- Piano (Grade 5 ABRSM) 🎹 </p>
 <br/>
 
  
