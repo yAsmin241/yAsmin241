@@ -71,13 +71,13 @@ Foundation </p>
 <p align="left"> 
 Primary school </p>
 - Tokoh Kokurikulum Perempuan (2016)</p>
-- Tempat ke-2 dalam kelas (2014) </p>
+- 2nd place in class (2014) </p>
 
 <p align="left"> 
 Secondary school </p>
 - Anugerah Pengetua (2017) </p>
 - Tokoh Harapan Sukan Perempuan (2019) </p>
-- Top 10 dalam tingkatan (2017-2019) </p>
+- Top 10 in the batch (2017-2019) </p>
 
 <p align="left"> 
 Foundation </p>
