@@ -11,14 +11,14 @@
 🌐 Connect with Me: 
 <p align="left">
   Email : ybzahiruddin@gmail.com
+  Linkedin : Yasmin Batrisyia Zahiruddin
 </p>
   <a href="https://www.linkedin.com/in/yasmin-batrisyia-zahiruddin/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:ybzahiruddin@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
-  </a> </p>
-  Email : ybzahiruddin@gmail.com
+  </a> 
 </p>
 
 
