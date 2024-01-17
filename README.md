@@ -84,7 +84,7 @@ Foundation </p>
 - Anugerah Kecemerlangan Akademik 4.0 (2023)</p>
 <br/>
 
-## curriculum : 
+## Curriculum : 
 <p align="left"> 
 - Swimming (National Level) </p>
 - Taekwondo (Black Belt Holder) </p>
