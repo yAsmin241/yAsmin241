@@ -66,6 +66,31 @@ Foundation </p>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.java.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <br/>
+
+## Awards :
+<p align="left"> 
+Primary school </p>
+- Tokoh Kokurikulum Perempuan (2016)</p>
+- Tempat ke-2 dalam kelas (2014) </p>
+
+<p align="left"> 
+Secondary school </p>
+- Anugerah Pengetua (2017) </p>
+- Tokoh Harapan Sukan Perempuan (2019) </p>
+- Top 10 dalam tingkatan (2017-2019) </p>
+
+<p align="left"> 
+Foundation </p>
+- Anugerah Kecemerlangan Akademik 4.0 (2023)</p>
+<br/>
+
+## Cocuriculum : 
+<p align="left"> 
+- Swimming (National Level) </p>
+- Taekwondo (Black Belt Holder) </p>
+- Piano (Grade 5 ABRSM) </p>
+<br/>
+
  
 
 ### 📊 GitHub Stats
