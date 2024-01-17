@@ -30,8 +30,8 @@
                     PT3: 6A 2B 1C, 
                     SPM: 6A 2B 1C </p>
 🎓 Foundation       (2022-2023) : Kolej Matrikulasi Negeri Sembilan,
-                    CGPA: 3.96 </p>
-                    MUET : 4.5 </p>
+                    CGPA: 3.96, ,MUET : 4.5 </p>
+                
 🎓 Degree        (2023-present) : UTM,
                     1st year student in Banchelor of degree in Computer Science (Data Engineering) </p>
 
