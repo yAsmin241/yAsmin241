@@ -1,4 +1,4 @@
-# Hi, (https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Yasmin Batrisyia binti Zahiruddin
+# Hi, [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Yasmin Batrisyia binti Zahiruddin
 ### I am actively learning in the field of computer science in order to broaden my understanding of technologies and obtain a lot of experience. 
 
 - Pronouns: Yasmin
