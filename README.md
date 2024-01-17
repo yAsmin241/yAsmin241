@@ -10,8 +10,8 @@
 
 🌐 Connect with Me: 
 <p align="left">
-  - Email : ybzahiruddin@gmail.com
-  - Linkedin : Yasmin Batrisyia Zahiruddin
+ - Email : ybzahiruddin@gmail.com
+-  Linkedin : Yasmin Batrisyia Zahiruddin
 </p>
   <a href="https://www.linkedin.com/in/yasmin-batrisyia-zahiruddin/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
