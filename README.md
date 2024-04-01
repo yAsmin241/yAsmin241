@@ -2,7 +2,7 @@
 ### I am actively learning in the field of computer science in order to broaden my understanding of technologies and obtain a lot of experience. 
 
 - Pronouns: Yasmin
-- Age : 19
+- Age : 20
 - Date of birth : 24/1/2004
 - Based in : Shah Alam, Selangor
 - My e-portfolio website: https://yasmin241.github.io/ 
