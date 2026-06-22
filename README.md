@@ -7,7 +7,7 @@ A proactive data engineering student, who is eager to learn, challenge herself a
 - 🪪 **Goes by:** Yasmin (she/her)
 - 📍 **Based in:** Denai Alam, Shah Alam, Selangor 🇲🇾
 - 🎓 **Studying:** B.Sc. Computer Science (Data Engineering) with Honours, UTM
-- 🌐 **Portfolio:** [yasmin241.github.io](https://yasmin241.github.io/)
+- 🌐 **E-Portfolio:** [yasmin241.github.io](https://yasmin241.github.io/)
 
 ### 🔗 Connect with Me
 <p align="left">
