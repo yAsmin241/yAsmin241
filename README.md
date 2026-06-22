@@ -1,103 +1,108 @@
-# 👋 Hi,I'm Yasmin Batrisyia binti Zahiruddin 
-### I am actively learning in the field of computer science in order to broaden my understanding of technologies and obtain a lot of experience. 
+# 👋 Hi, I'm Yasmin Batrisyia binti Zahiruddin
 
-- Pronouns: Yasmin
-- Age : 22
-- Date of birth : 24/1/2004
-- Based in : Shah Alam, Selangor
-- My e-portfolio website: https://yasmin241.github.io/ 
-</p>
+### Data Engineering student at UTM, building hands-on experience across data pipelines, cloud, and analytics.
 
+A proactive data engineering student, who is eager to learn, challenge herself and conect with a lot of people. With hands-on project experience plus strong communication and teamwork skills, I'm eager to contribute to real-world projects
 
-🌐 Connect with Me: 
+- 🪪 **Goes by:** Yasmin (she/her)
+- 📍 **Based in:** Denai Alam, Shah Alam, Selangor 🇲🇾
+- 🎓 **Studying:** B.Sc. Computer Science (Data Engineering) with Honours, UTM
+- 🌐 **Portfolio:** [yasmin241.github.io](https://yasmin241.github.io/)
+
+### 🔗 Connect with Me
 <p align="left">
- - Email : ybzahiruddin@gmail.com </p>
--  Linkedin : Yasmin Batrisyia Zahiruddin
-</p>
   <a href="https://www.linkedin.com/in/yasmin-batrisyia-zahiruddin/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:ybzahiruddin@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
-  </a> 
+  </a>
 </p>
 
+---
 
-## Background education :
+## 🎓 Education
 
-🎓  Primary school (2011-2016)  : SK Taman Bukit Subang, 
-                    UPSR: 1A 5B </p>
-🎓 Secondary school (2017-2021) : SMK Shah Alam,
-                    PT3: 6A 2B 1C, 
-                    SPM: 6A 2B 1C </p>
-🎓 Foundation       (2022-2023) : Kolej Matrikulasi Negeri Sembilan,
-                    CGPA: 3.96, ,MUET : 4.5 </p>
-                
-🎓 Degree        (2023-present) : UTM,
-                    1st year student in Banchelor of degree in Computer Science (Data Engineering) </p>
+**Bachelor of Computer Science (Data Engineering) with Honours** — Universiti Teknologi Malaysia (UTM)
+- Expected graduation: **October 2027**
+- Current CGPA: **3.68**
+- Relevant coursework: High Performance Data Processing, Enterprise System Design and Modelling, Database Programming, Business Intelligence, Software Engineering
 
-⤷ As a computer science student, I am committed to expanding my knowledge and talents in this profession. I am fascinated by technology and am constantly looking for new ways to learn and progress. My planned graduation year is 2027, and I am determined to make the most of my time as a student at utm.
-<br/>
+**Foundation in Physical Science** — Kolej Matrikulasi Negeri Sembilan (KMNS)
+- Graduated: **June 2023**
+- CGPA: **3.96**
+- Muet: **4.5**
+---
 
+## 🚀 Projects
 
-##  😎 Positions : 
-<p align="left"> 
-Primary school </p>
-- Prefect (2012-2013) </p>
-- Assistant class monitor (2014-2016) </p>
-- Vice chairman of Blue House (2016) </p>
+**Azure End-to-End Data Engineering (Real-Time)**
+Built an automated pipeline integrating on-premises SQL Server with Azure using the Medallion Architecture. Modeled data into a star schema and developed an interactive Power BI dashboard.
 
-<p align="left"> 
-Secondary school </p>
-- Assistant class monitor (2017-2021) </p>
-- President of Kelab Tunas Niaga (2021) </p>
-- Vice chairman of Blue House (2021) </p>
+**ETL Pipeline in Apache Spark**
+Executed a PySpark ETL pipeline that extracted millions of records, enforced quality checks, and saved to Parquet. Loaded optimized data into PostgreSQL via Docker and built analytical dashboards.
 
-<p align="left"> 
-Foundation </p>
-- bureau of outdoor activities in Program Siswa Sihat (PROSIS) (2022-2023)</p>
-<br/>
+**Optimizing High Performance Data Processing for Large-Scale Web Crawlers**
+Crawled over 100,000 web listings and built an automated data-quality cleaning pipeline. Conducted benchmarking analysis across multiple libraries.
 
-  
- ## 💪 Skills : 
-   <p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.java.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-   </p>
-<br/>
+**AI Chatbot for Parcel FAQ**
+Developed an enterprise conversational AI using complex webhook integration for real-time, dynamic data retrieval. Deployed and refined intent training on SAP BTP.
 
-## 📑 Awards :
-<p align="left"> 
-Primary school </p>
-- Tokoh Kokurikulum Perempuan (2016)</p>
-- 2nd place in class (2014) </p>
+**Cooperative System for Lembaga Kemajuan Pertanian Kemubu (KADA)**
+Developed modules for account management, registration, and loan application/calculation for KADA members. Implemented backend logic using PHP (MVC) with a MySQL database structure.
 
-<p align="left"> 
-Secondary school </p>
-- Anugerah Pengetua (2017) </p>
-- Tokoh Harapan Sukan Perempuan (2019) </p>
-- Top 10 in the batch (2017-2019) </p>
+---
 
-<p align="left"> 
-Foundation </p>
-- Anugerah Kecemerlangan Akademik 4.0 (2023)</p>
-<br/>
+## 💪 Skills
 
-## 🥇Curriculum : 
-<p align="left"> 
-- Swimming (National Level) 🏊‍♀️ </p>
-- Taekwondo (Black Belt Holder) 🥋 </p>
-- Piano (Grade 5 ABRSM) 🎹 </p>
-<br/>
+**Programming**
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark">
+</p>
 
- 
+**Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
+**Tools & Tech**
+<p align="left">
+  <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/-SAP%20BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP BTP">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+</p>
+
+---
+
+## 🏅 Leadership & Co-curricular
+
+- **Manager** — UTM Swimming Team *(Oct 2024 – present)*
+- **Best College Student Committee Leadership Award**, College Student Committee, UTM *(May 2026)*
+- **Vice President (Activity)** — College Student Committee, Kolej Tun Dr. Ismail (KTDI) *(Oct 2024 – Oct 2025)*
+- **Best Sportswoman Award**, KTDI *(July 2025)*
+- **Vice Director** — Kenyalang Journey Awaits 2025 (KEJORA '25), Sarawak *(Oct 2024 – June 2025)*
+- **Director** — Engagement with Principal and Council of Fellows, KTDI *(Oct 2024)*
+- 🏊‍♀️ UTM swimming athlete — represented UTM in SUKIPT 2024 and MASUM/SIPMA 2025
+
+---
+
+## 🎯 Beyond Tech
+🏊‍♀️ Swimming (National Level) &nbsp;•&nbsp; 🥋 Taekwondo (Black Belt) &nbsp;•&nbsp; 🎹 Piano (Grade 5, ABRSM)
+
+---
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yAsmin241&show_icons=true&count_private=true&theme=default" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasmin241&show_icons=true&count_private=true&theme=default" alt="GitHub Stats">
 </p>
-
